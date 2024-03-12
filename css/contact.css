@@ -1,0 +1,24 @@
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 60%;
+}
+
+.form-input {
+    margin: 1rem;
+    width: 60%;
+    height: 1.2rem;
+}
+
+#message {
+    height: 10rem;
+    width: 100%;
+}
+
+.contact-link {
+    text-decoration: underline;
+    color: var(--black);
+}
